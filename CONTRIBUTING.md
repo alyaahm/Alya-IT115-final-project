@@ -1,4 +1,4 @@
-# This file is for: <br><br>
+# This is my file: <br><br>
 # Welcome contributors to my final project <br>
 We are eager for contributions and happy you found your way here. <br><br>
 ### Table of Contents <br><br>
