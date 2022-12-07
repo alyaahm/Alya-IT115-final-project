@@ -21,15 +21,18 @@ We are eager for contributions and happy you found your way here. <br><br>
 <br>
 Description of how to test the project, where the tests are located in your directories.
 <br>
+
 #### [How to submit changes](#how-to-submit-changes)
 <br>
 Describe change submission process : Pull Request protocol etc. 
 You might also include what response they'll get back from the team on submission, or any caveats about the speed of response.
-<br>    
+<br>
+
 #### [How to report a bug](#How-to-report-a-bug)
 <br>
 Bugs are problems in code, in the functionality of an application or in its UI design; you can submit them through "bug trackers" and most projects invite you to do so, so that they may "debug" with more efficiency and the input of a contributor. Take a look at Atom's example for how to teach people to report bugs to your project.
-<br>    
+<br>
+
 #### [First bugs for Contributors](#first-bugs-for-contributors) 
 <br>
 Sometimes it is helpful to provide some guidelines for the types of bugs contributors should tackle (should they want to fix the bugs and not just submit them), see Atom's example section here.
